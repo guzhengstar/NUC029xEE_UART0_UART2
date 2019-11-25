@@ -15,6 +15,8 @@ follow with UART1 output ASCII hex 0x41 , UART2 output ASCII hex 0x42 ,
 - Enable UART0/UART1/UART2 RX interrupt 
 
 
+=======================================================================================================================
+
 update @ 2019/11/21
 
 UART0 (PB1_UART0_TXD , PB0_UART0_RXD) and UART2 (PB9_UART2_TXD , PB10_UART2_RXD) example, 
